@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jesus Sagastume @sagas29
--  Software Engineer - Backend Developer
-- 🌱 Learning React, React Native
+- 👋 I'm Jesus Sagastume, a tech enthusiast dedicated to utilizing the power of code to overcome challenges and drive impactful solutions
+- 🎓 Software Engineer
+- 🌱 Currently learning react & react native
 - 📫 Contact me in my LinkedIn profile: [https://linkedin.com/in/sagas29](https://linkedin.com/in/sagas29)
