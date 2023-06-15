@@ -1,4 +1,5 @@
 - 👋 I'm Jesus Sagastume, a tech enthusiast dedicated to utilizing the power of code to overcome challenges and drive impactful solutions
 - 🎓 Software Engineer
+- 💪 Backend Developer -> Node.js, Laravel, TypeScript, JavaScript, Nest.js, Php
 - 🌱 Currently learning react & react native
 - 📫 Contact me in my LinkedIn profile: [https://linkedin.com/in/sagas29](https://linkedin.com/in/sagas29)
