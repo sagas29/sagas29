@@ -2,15 +2,14 @@
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F60200)
-
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=F60200)
 
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=NestJS&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-JWT-informational?style=flat&logo=JSONWebTokens&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=Jest&logoColor=white&color=F60200)
-![](https://img.shields.io/badge/Code-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=F60200)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=F60200)
 
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/DB-PostgresSQL-informational?style=flat&logo=postgresql&logoColor=white&color=F60200)
 
