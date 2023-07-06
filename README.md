@@ -1,9 +1,8 @@
 <h1>Hey! I'm Jesus Sagastume</h1>
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=F60200)
-
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F60200)
+
 
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=NestJS&logoColor=white&color=F60200)
@@ -13,7 +12,7 @@
 
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=F60200)
-![](https://img.shields.io/badge/DB-PostgresSQL-informational?style=flat&logo=Postgres&logoColor=white&color=F60200)
+![](https://img.shields.io/badge/DB-PostgresSQL-informational?style=flat&logo=postgresql&logoColor=white&color=F60200)
 
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Cloud-Google%20Cloud-informational?style=flat&logo=GoogleCloud&logoColor=white&color=F60200)
