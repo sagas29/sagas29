@@ -1,5 +1,7 @@
 <h1>Hey! I'm Jesus Sagastume</h1>
 
+<p>Stack</p>
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=F60200)
