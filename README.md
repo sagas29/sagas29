@@ -25,5 +25,5 @@
 
 - 🎓 Software Engineer
 - 💪 Backend Developer -> Node.js, Laravel, TypeScript, JavaScript, Nest.js, Php
-- 🌱 Currently learning react & react native
+- 🌱 Currently learning Ruby on Rails
 - 📫 Contact me in my LinkedIn profile: [https://linkedin.com/in/sagas29](https://linkedin.com/in/sagas29)
