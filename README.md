@@ -24,6 +24,5 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=F60200)
 
 - 🎓 Software Engineer
-- 💪 Backend Developer -> Node.js, Laravel, TypeScript, JavaScript, Nest.js, Php
-- 🌱 Currently learning Ruby on Rails
+- 💪 Node.js, Laravel, TypeScript, JavaScript, Nest.js, Php, AWS, GCP, CI CD
 - 📫 Contact me in my LinkedIn profile: [https://linkedin.com/in/sagas29](https://linkedin.com/in/sagas29)
