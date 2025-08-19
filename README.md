@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=F60200)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=php&logoColor=white&color=F60200)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=F60200)
 
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=F60200)
 ![](https://img.shields.io/badge/Code-Nest.js-informational?style=flat&logo=NestJS&logoColor=white&color=F60200)
